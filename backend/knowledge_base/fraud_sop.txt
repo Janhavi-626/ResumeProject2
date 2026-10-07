@@ -1,0 +1,5 @@
+Fraud Review Standard Operating Procedure
+
+- Review evidence for mismatch between product condition, delivery records, and customer account history.
+- Escalate to specialist assessment when the merchandise value is above policy thresholds or the product category is electronics.
+- Approval gates require a human reviewer when the predicted class is Fraud Review or Specialist Assessment.

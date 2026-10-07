@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env
+__pycache__/
+*.pyc
+.venv/
+backend/.chroma/
+backend/return_demo.db
